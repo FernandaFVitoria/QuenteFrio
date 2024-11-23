@@ -1,0 +1,15 @@
+C:\Users\user\Etec\QuenteFrio\bin\Debug\net8.0\QuenteFrio.exe
+C:\Users\user\Etec\QuenteFrio\bin\Debug\net8.0\QuenteFrio.deps.json
+C:\Users\user\Etec\QuenteFrio\bin\Debug\net8.0\QuenteFrio.runtimeconfig.json
+C:\Users\user\Etec\QuenteFrio\bin\Debug\net8.0\QuenteFrio.dll
+C:\Users\user\Etec\QuenteFrio\bin\Debug\net8.0\QuenteFrio.pdb
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\QuenteFrio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\QuenteFrio.AssemblyInfoInputs.cache
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\QuenteFrio.AssemblyInfo.cs
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\QuenteFrio.csproj.CoreCompileInputs.cache
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\QuenteFrio.sourcelink.json
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\QuenteFrio.dll
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\refint\QuenteFrio.dll
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\QuenteFrio.pdb
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\QuenteFrio.genruntimeconfig.cache
+C:\Users\user\Etec\QuenteFrio\obj\Debug\net8.0\ref\QuenteFrio.dll
